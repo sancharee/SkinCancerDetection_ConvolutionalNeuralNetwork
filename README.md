@@ -9,9 +9,8 @@ Basal cell carcinoma<br>
 Dermatofibroma<br>
 Melanoma<br>
 Nevus<br>
-Pigmented benign keratosis<br><br>
+Pigmented benign keratosis<br>
 Seborrheic keratosis<br>
-Squamous cell carcinoma<br><br>
-Vascular lesion<br>
- 
+Squamous cell carcinoma<br>
+Vascular lesion<br> 
 We need to Create a CNN model, which can accurately detect 9 classes present in the dataset. 
